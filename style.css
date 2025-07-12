@@ -9,7 +9,7 @@ body {
 h1 {
     font-family: 'Yu Gothic', '游ゴシック', YuGothic, 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', Meiryo, メイリオ, sans-serif;
     font-size: 4em; /* 大きめのフォントサイズ */
-    color: #36b07d; /* ミントらしい色 */
+    color: #87CEEB; /* ミントらしい色 */
     padding: 30px 30px 0; /* 左上からの余白 (下は0にして詳細情報に近づける) */
     margin: 0; /* h1のデフォルトマージンをなくす */
     text-align: left; /* 左寄せ */
@@ -29,7 +29,7 @@ h1 {
 }
 
 #info-list li {
-    font-size: 1.2em; /* 見出しより小さめに */
+    font-size: 1.8em; /* 見出しより小さめに */
     margin-bottom: 5px; /* 各項目の下の余白 */
     line-height: 1.5; /* 行の高さを調整 */
 }
